@@ -1,0 +1,53 @@
+{
+  "records": [
+    {
+      "id": 1,
+      "userId": 1,
+      "bookId": 2,
+      "borrowDate": "2026-03-17",
+      "returnDate": null
+    },
+    {
+      "id": 2,
+      "userId": 2,
+      "bookId": 3,
+      "borrowDate": "2026-03-18",
+      "returnDate": null
+    },
+    {
+      "id": 3,
+      "userId": 3,
+      "bookId": 3,
+      "borrowDate": "2026-03-18",
+      "returnDate": null
+    },
+    {
+      "id": "2026-03-17T09:48:13.583Z",
+      "userId": 1,
+      "bookId": 4,
+      "borrowDate": "2026-03-17",
+      "returnDate": null
+    },
+    {
+      "id": "2026-03-17T10:18:44.559Z",
+      "userId": 2,
+      "bookId": 2,
+      "borrowDate": "2026-03-17",
+      "returnDate": null
+    },
+    {
+      "id": "2026-03-17T10:18:44.562Z",
+      "userId": 2,
+      "bookId": 4,
+      "borrowDate": "2026-03-17",
+      "returnDate": null
+    },
+    {
+      "id": 1773825102778,
+      "userId": 2,
+      "bookId": 6,
+      "borrowDate": "2026-03-18",
+      "returnDate": null
+    }
+  ]
+}

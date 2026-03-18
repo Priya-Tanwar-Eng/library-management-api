@@ -1,0 +1,67 @@
+{
+  "categories": [
+    {
+      "name": "Programming",
+      "books": [
+        {
+          "id": 1,
+          "title": "JavaScript Basics",
+          "author": "John Smith",
+          "year": 2020,
+          "totalCopies": 5,
+          "availableCopies": 5
+        },
+        {
+          "id": 2,
+          "title": "Learning React",
+          "author": "Alex Banks",
+          "year": 2022,
+          "totalCopies": 4,
+          "availableCopies": 2
+        }
+      ]
+    },
+    {
+      "name": "Web Development",
+      "books": [
+        {
+          "id": 3,
+          "title": "HTML and CSS Design",
+          "author": "Jon Duckett",
+          "year": 2018,
+          "totalCopies": 6,
+          "availableCopies": 4
+        },
+        {
+          "id": 4,
+          "title": "Node.js Guide",
+          "author": "Ryan Dahl",
+          "year": 2021,
+          "totalCopies": 3,
+          "availableCopies": 1
+        }
+      ]
+    },
+    {
+      "name": "Computer Science",
+      "books": [
+        {
+          "id": 5,
+          "title": "Data Structures in C++",
+          "author": "Mark Allen Weiss",
+          "year": 2017,
+          "totalCopies": 5,
+          "availableCopies": 5
+        },
+        {
+          "id": 6,
+          "title": "Algorithms Made Easy",
+          "author": "Narasimha Karumanchi",
+          "year": 2019,
+          "totalCopies": 4,
+          "availableCopies": 3
+        }
+      ]
+    }
+  ]
+}
